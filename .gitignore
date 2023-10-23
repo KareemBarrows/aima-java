@@ -1,4 +1,4 @@
-# Mac Specific
+#!Mac Specific
 
 .DS_Store
 .AppleDouble
@@ -6,6 +6,7 @@
 
 # ignore IntelliJ project files
 .idea
-*.iml
+#.iml
 
 
+ 
